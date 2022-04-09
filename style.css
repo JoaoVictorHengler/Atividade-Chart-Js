@@ -1,0 +1,9 @@
+body {
+    display: flex;
+}
+.chart {
+    position: relative;
+    height: 40vh;
+    width: 40vw;
+
+}
